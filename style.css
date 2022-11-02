@@ -155,7 +155,7 @@ svg {
 
 .page-fade-in { 
 	animation-name: page-fade-in; 
-	animation-duration: 2.8s; 
+	animation-duration: 1.4s; 
 	animation-fill-mode: forwards; 
 }
 
@@ -166,7 +166,7 @@ svg {
 
 .page-fade-out { 
 	animation-name: page-fade-out; 
-	animation-duration: 2.8s; 
+	animation-duration: 1.4s; 
 	animation-fill-mode: forwards; 
 }
 
