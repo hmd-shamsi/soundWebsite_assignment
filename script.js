@@ -98,7 +98,7 @@ lastClick.addEventListener("click", function () {
 		//currentMessage.innerHTML = "Press play to finish your day!";
 		//playingAudio = audios[i+1];
 		window.location.reload();
-	}, 2.8*1000);
+	}, 1.4*1000);
 });
 
 // -------------------------------------------------- \\
